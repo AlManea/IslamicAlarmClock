@@ -1,4 +1,4 @@
-# IslamicAlarmClock
+# Islamic Alarm Clock Using Java
 This project illustrates the use of Java (1.4) to create an Islamic alarm clock
 
 ## I. Basic Description
