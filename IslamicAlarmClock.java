@@ -1,5 +1,5 @@
 //The Islamic Alarm Clock is a java application developed in KFUPM for educational purpose
-//Author: AbdulRahman M. Al Mana
+//Author: AbdulRahman Manea
 //Jan. 4, 2003
 
 
