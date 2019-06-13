@@ -36,9 +36,7 @@ http://leepoint.net/notes-java/45examples/40animation/50analogclockbuf/analogclo
 
 The third file is thePrayers.txt which is a text file containing the prayer times for some Saudi cities.
 
-The code of the main class: IslamicAlarmClock and the two other classes: Clock and ClockAnalogBuf follows on the next pages.
-
-## References
+## V.  References
 
 1.	 Java: Example – Buffered Analog Clock, 
 http://leepoint.net/notes-java/45examples/40animation/50analogclockbuf/analogclockbufexample.html
