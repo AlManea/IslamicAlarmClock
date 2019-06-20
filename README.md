@@ -5,7 +5,7 @@ This project illustrates the use of Java (1.4) to create an Islamic alarm clock
 A user would like to have a 5-time alarm clock application. The application should be a GUI digital clock that enables to set five different time alarms. While the application is running, the main window is displaying the current time. When the current time is equal to one of the set alarm, the application will play the sound file. The user may activate up to five alarms.
 
 
-## II. Requirements List:
+## II. Requirements List
 1.	The application displays the current time and date in a main window.
 2.	The application has five alarms.
 3.	Initially, the alarms are set the default value (00:00).
@@ -17,7 +17,7 @@ A user would like to have a 5-time alarm clock application. The application shou
 9.	The user can enable or disable any alarm.
 10.	Some additional features—such as displaying prayer times in some specific cities and enabling the user to set his alarms to those prayer times—can be also added to this application.
  
-## III.	The Program Design:
+## III.	The Program Design
 It is obvious from the problem summary statement that almost all the functions this application is to perform are homogenous, since they are all related to the time and hence act on almost the same attributes. Therefore, the easiest and most natural way of designing such an application is to have one class, call it IslamicAlarmClock, in which all the attributes and the operations performed on them are encapsulated. This kind of design, in which all the code is almost enclosed in one class, involves the use of many nested classes, either member, local, or anonymous classes. The type and number of those nested classes is determined during the implementation.
 
 Moreover, this program needs to update its output every second, in addition to responding to events triggered by the user. This fact indicates that the program should be designed to have concurrency. Therefore, the program should have at least two concurrent threads.
